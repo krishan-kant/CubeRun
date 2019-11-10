@@ -1,2 +1,2 @@
 # CubeRun
-A simple 3D game, made with unity.
+A simple 3d game with 6 different levels. Made with Unity.
